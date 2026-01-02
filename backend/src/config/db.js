@@ -9,5 +9,3 @@ export const connectDB = async () => {
     process.exit(1); // exit with failure
   }
 };
-
-// mongodb+srv://vermaranjan62_db_user:NNTjhhMym8UZC4YC@cluster0.rhlvcvy.mongodb.net/notes_db?appName=Cluster0
